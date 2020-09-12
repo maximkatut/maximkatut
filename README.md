@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-Hi! 🙋‍♂️ My name is Max Baravy. I'm from Belarus 🇧🇾 Currently living in the United States 🇺🇸. I am front end developer with a strong passion of ReactJS framework. Each day I learn something new and create web products using best practices and modern techhologies.
+Hi! 🙋‍♂️ My name is Max Baravy. I'm from Belarus 🇧🇾 Currently living in the United States 🇺🇸. I am front end developer with a strong passion of ReactJS. Each day I learn something new and create web products using best practices and modern techhologies.
 
 <h3>🛠 Tech Stack</h3>
 
