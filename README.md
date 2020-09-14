@@ -21,7 +21,7 @@ Hi! 🙋‍♂️ My name is Max Baravy. I'm from Belarus 🇧🇾 Currently liv
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.maxbaravy.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.maxbaravy.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://maxbaravy.com/"><img alt="Website" src="https://img.shields.io/badge/Website-maxbaravy.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/maksimbaravy/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Maksim%20Baravy-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/maximkatut/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-maximkatut-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:maxbaravy@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-maxbaravy@gmail.com-blue?style=flat-square&logo=gmail"></a>
